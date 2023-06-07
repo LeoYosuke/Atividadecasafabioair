@@ -1,0 +1,7 @@
+C:\Users\leonardo.ykonichi\source\repos\AtividadeCasaAIRCOMPANYFABIO\AtividadeCasaAIRCOMPANYFABIO\bin\Debug\AtividadeCasaAIRCOMPANYFABIO.exe.config
+C:\Users\leonardo.ykonichi\source\repos\AtividadeCasaAIRCOMPANYFABIO\AtividadeCasaAIRCOMPANYFABIO\bin\Debug\AtividadeCasaAIRCOMPANYFABIO.exe
+C:\Users\leonardo.ykonichi\source\repos\AtividadeCasaAIRCOMPANYFABIO\AtividadeCasaAIRCOMPANYFABIO\bin\Debug\AtividadeCasaAIRCOMPANYFABIO.pdb
+C:\Users\leonardo.ykonichi\source\repos\AtividadeCasaAIRCOMPANYFABIO\AtividadeCasaAIRCOMPANYFABIO\obj\Debug\AtividadeCasaAIRCOMPANYFABIO.csproj.AssemblyReference.cache
+C:\Users\leonardo.ykonichi\source\repos\AtividadeCasaAIRCOMPANYFABIO\AtividadeCasaAIRCOMPANYFABIO\obj\Debug\AtividadeCasaAIRCOMPANYFABIO.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.ykonichi\source\repos\AtividadeCasaAIRCOMPANYFABIO\AtividadeCasaAIRCOMPANYFABIO\obj\Debug\AtividadeCasaAIRCOMPANYFABIO.exe
+C:\Users\leonardo.ykonichi\source\repos\AtividadeCasaAIRCOMPANYFABIO\AtividadeCasaAIRCOMPANYFABIO\obj\Debug\AtividadeCasaAIRCOMPANYFABIO.pdb
